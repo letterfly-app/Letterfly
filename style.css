@@ -148,3 +148,10 @@ h1, h2, h3 { margin-top: 0; line-height: 1.2; letter-spacing: -.035em; }
   .glow { animation: none; }
   *, *::before, *::after { transition: none !important; }
 }
+.legal a.button {
+  color: #17200f;
+}
+
+.legal a.button.secondary {
+  color: #f2f4ec;
+}
