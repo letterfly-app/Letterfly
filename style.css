@@ -13,7 +13,7 @@
 }
 * { box-sizing: border-box; }
 html { scroll-behavior: smooth; }
-body { margin: 0; min-width: 320px; background: radial-gradient(circle at 15% 10%, rgba(45,86,61,.24), transparent 28rem), radial-gradient(circle at 85% 24%, rgba(131,146,43,.1), transparent 25rem), var(--bg); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans KR", sans-serif; line-height: 1.65; }
+body { margin: 0; min-width: 320px; background: radial-gradient(circle at 15% 10%, rgba(45,86,61,.24), transparent 28rem), radial-gradient(circle at 85% 24%, rgba(131,146,43,.1), transparent 25rem), var(--bg); color: var(--ink); font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Arial, sans-serif; line-height: 1.65; }
 a { color: inherit; }
 .skip-link { position: fixed; top: -60px; left: 16px; z-index: 100; padding: 10px 14px; border-radius: 10px; background: var(--accent); color: var(--accent-ink); font-weight: 800; }
 .skip-link:focus { top: 16px; }
